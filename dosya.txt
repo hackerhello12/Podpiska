@@ -1,2 +1,2 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp3cGJDdTJ4TE9FeHdVQURDcU1LbVRNS1J3NjNEcXNPUGVXNTN3cnNPUlJRY3dxOWxlOEt1d3BNTUJzT1M@13.51.177.104:443?type=tcp#Podpiska
-vless://65b975c8-d6c9-44b2-a0d1-8d2727f4742d@151.101.129.229:443?mode=auto&path=%2F&security=tls&alpn=h3&encryption=none&host=Berdishka.global.ssl.fastly.net&fp=chrome&type=xhttp&sni=Berdishka.global.ssl.fastly.net#podpiska
+vless://44c30a8b-9258-4e07-9fa1-58e1b7239805@146.75.119.6:443?security=tls&encryption=none&type=xhttp&path=/&sni=Berdishka.global.ssl.fastly.net&fp=chrome&mode=auto&alpn=h3#France 🇫🇷
+vless://8f656847-ccc7-4618-bdfd-eb36507523b9@194.60.134.78:2083?path=%2F&security=tls&fragment=1-3%2C1-3%2Ctlshello&alpn=http%2F1.1&encryption=none&host=ragnarvm.mukkioffcdn.ru&fp=chrome&type=ws&sni=ragnarvm.mukkioffcdn.ru#German%2520%25F0%259F%2587%25A9%25F0%259F%2587%25AA
